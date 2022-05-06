@@ -39,7 +39,7 @@ function verificar() {
         img.setAttribute("src", "assets/manSeventy.png");
       }
     } else if (fsex[1].checked) {
-      gênero = "Uma pessoa do sexo <strong>Femenino</strong>";
+      gênero = "Uma pessoa do sexo <strong>Feminino</strong>";
       if (idade >= 1 && idade < 5) {
         //bebe
         img.setAttribute("src", "assets/babyGirl.png");
